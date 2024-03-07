@@ -6,5 +6,5 @@ These are the source code of MAF-CNN.
 # Database
 We evaluate our model on the Cyclic Alternating Pattern (CAP) sleep database.The CAP sleep database is a publicly available database from PhysioNet, which is a collection of 108 PSG recordings.
 # Requirements
-Python 3.8.13  pytorch==1.13.0  numpy==1.23.3  pandas == 1.4.1  sklearn==0.19.1
+Python 3.8.13  pytorch==1.13.0  numpy==1.23.3  pandas == 1.4.1  sklearn==1.0.2
 
